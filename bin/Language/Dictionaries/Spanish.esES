@@ -1,0 +1,107 @@
+# Language file for fRiSS 0.5
+# 
+# Note: all strings have to be quoted!
+#
+# Format: "source/english" "target/Spanish (Spain)"
+#
+# Yes, this is just for fun :-)
+
+# Meta Information
+	"FL:Translator"		"Tanausú Gómez (tgomez@duck.com)"
+	"FL:Language"		"Spanish"
+	"FL:Version"		"1"
+
+
+# General
+#	"Ok"				"Ok"
+#	"Cancel"			"Cancelar"
+
+
+# FV-Popup
+#	"Information"		"Información"
+#	"Refresh"			"Refrescar"
+#	"Next Feed"			"Siguiente Feed"
+#	"Previous Feed"		"Feed Anterior"
+#	"Select Feed"		"Seleccionar Feed"
+#	"Preferences" 		"Preferencias"
+#	"Language"			"Lenguaje"
+#	"About fRiSS" 		"Acerca de fRiSS"
+#	"About" 			"Acerca de"
+
+# FV-Information
+#	"Title"							"Título"
+#	"Desc"							"Desc"
+#	"Link"							"Enlace"
+#	"<no description available>"	"<no hay descripción disponible>"
+#	"<no link available>"			"<no hay enlace disponible>"
+
+
+# FV-Fehler
+#	"An error occured while loading this feed."					"Ha ocurrido un error mientras se cargaba este feed."
+#	"Error: Please add some feeds in the Preferences Window!"	"Error: ¡Añada algunos feeds en la ventana de Preferencias!"
+#	"Error: Fortune failed to load."							"Error: Fallo al cargar Fortune."
+#	"Warning: FeedLoader is still busy..."						"Warning: El Cargador de Feeds sigue ocupado..."
+#	"Error: The browser could not be started :-("				"Error: El navegador no puede iniciarse :-("
+
+# FV-Status
+#	"Loading..." 		"Cargando..."
+#	"Loading done" 		"Carga completa"
+
+# PrefView
+#	"Feeds"				"Feeds"
+	"Colours"			"Colores"
+#	"Misc" 				"Otros"
+#	"URL"				"URL"
+
+# PV - Popup
+#	"Collapse"				"Contraer"
+#	"Expand"				"Expandir"
+#	"Rename"				"Renombrar"
+#	"New Item..."			"Nuevo Objeto..."
+#	"Duplicate"				"Duplicar"
+#	"Edit"					"Editar"
+#	"Edit..."				"Editar..."
+#	"Remove"				"Eliminar"
+#	"Add Subfolder..."		"Añadr Subcarpeta..."
+#	"Import..."				"Importar..."
+#	"Export..."				"Exportar..."
+#	"Add new Item..."		"Añadir nuevo Objeto..."
+#	"Add new Folder..."		"Añadir nueva Carpeta..."
+
+
+# PV - Tab Colour
+#	"Background"							"Fondo"
+#	"Transparent background"				"Fondo transparente"
+	"Adapt to Desktop background colour"	"Adaptar al color de fondo del escritorio"
+	"Custom background colour:"				"Color de fondo personalizado:"
+	"Text Colour"							"Color del texto"
+	"Adapt colour to background"			"Adaptar color al fondo"
+#	"(black on bright/white on dark)"		"(negro sobre blanco/blanco sobre negro)"
+	"Custom text colour:"					"Color personalizado del texto:"
+
+# PV - Tab Misc
+#	"Refresh interval (min)"				"Intervalo de actualización (min)"
+#	"Load next feed instead of current"		"Cargue el siguiente feed en lugar del actual"
+#	"Show scrollbar"						"Mostrar scrollbar"
+#	"Automatic"								"Automático"
+#	"Show always"							"Mostrar siempre"
+#	"Hide always"							"Ocultar Siempre"
+#	"Custom"								"Personalizado"
+#	"Browser MIME-Type"						"MIME-Type del Navegador"
+
+# PV - Error
+#	"One of the required fields is empty!"	"¡Uno de los campos obligatorios está vacío!"
+#	"Your feed list must not be empty!"		"¡Su lista de feeds no puede estar vacía!"
+
+# FPrefEditWindow
+#	"Edit Item"						"Editar Objeto"
+#	"Add Description to title"		"Añadir descripción al título"
+#	"Browser for this feed"			"Navegar por este feed"
+#	"Default"						"Por Defecto"
+#	"Custom"						"Personalizado"
+#	"Revert to Original"			"Volver al Original"
+#	"Save and Close"				"Guardar y Cerrar"
+
+# LOAD_NET - Error
+#	"Error: Timeout! Server did not respond." "Error: ¡Timeout! El servidor no responde."
+
